@@ -34,3 +34,18 @@ pip3 install -r requirements.txt
 
 # 4. ¡Ejecuta!
 python3 osint_toolkit.py
+---
+
+## 🔧 Solución de problemas
+
+| Problema | Solución rápida |
+|---|---|
+| `error: externally-managed-environment` | Usa un entorno virtual:<br>`python3 -m venv venv && source venv/bin/activate && pip install requests` |
+| `No module named 'tkinter'` | Instala el paquete gráfico:<br>`sudo apt install python3-tk` |
+| `python3: can't open file 'osint_toolkit.py'` | Asegúrate de estar dentro de la carpeta del repo:<br>`cd impawnd-osint-beta` |
+| `Permission denied` | Da permisos de ejecución:<br>`chmod +x osint_toolkit.py` |
+| Google Earth no se abre | Instala el paquete `xdg-utils`:<br>`sudo apt install xdg-utils` o abre el enlace manual que aparece en consola |
+| Numverify devuelve “Error” | La demo-key tiene límite; consigue tu clave gratis en [numverify.com](https://numverify.com) y cámbiala en el script |
+
+¿Sigues atascado?  
+Abre un issue con el **mensaje completo** de error y tu sistema operativo.
