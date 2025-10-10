@@ -1,5 +1,5 @@
 # 🕵️‍♂️ Impawnd-OSINT-beta  
-Herramienta OSINT con interfaz gráfica (tkinter) para Ubuntu/Windows.  
+Herramienta OSINT con interfaz gráfica (tkinter) para Ubuntu.  
 Geolocaliza IPs y teléfonos, reconstruye usuarios, lanza nmap, whois, traceroute, DNS-lookup… todo desde un clic.
 
 &gt; 🚧 Versión CLI para iOS (iSH) y Android (Termux) en desarrollo.
