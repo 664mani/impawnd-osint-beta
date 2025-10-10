@@ -44,6 +44,26 @@ Demo-key incluida → puede agotarse.
 | 2 | Copia tu **Access Key** del dashboard |
 | 3 | Abre `osint_toolkit.py` y cambia la línea:  
   `API_KEY_NUMVERIFY = "tu_clave_aquí"` |
+  ---
+## 📝 Paso a paso: cambiar tu token de Numverify
+
+1. **Abre el archivo**  
+   ```bash
+   nano osint_toolkit.py
+2.Busca la línea
+  Presiona Ctrl + W, escribe
+  API_KEY_NUMVERIFY
+  y pulsa Enter.
+3.Reemplaza solo el contenido entre comillas
+Antes
+API_KEY_NUMVERIFY = "ef9d9159f8b256ad18d6752773d4e6a3"
+Después
+API_KEY_NUMVERIFY = "TU_CLAVE_AQUÍ"
+4. Guarda y cierra
+
+    Ctrl + O → Enter → Ctrl + X
+5.Comprueba:
+python3 osint_toolkit.py
 
 > Numverify solo devuelve **país, operador y línea**; **NUNCA** la ubicación exacta del usuario.
 ## 📦 Instalación en Ubuntu (20.04 / 22.04 / 24.04)
