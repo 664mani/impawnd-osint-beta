@@ -56,12 +56,16 @@ Demo-key incluida → puede agotarse.
   y pulsa Enter.
 3.Reemplaza solo el contenido entre comillas
 Antes
+
 API_KEY_NUMVERIFY = "ef9d9159f8b256ad18d6752773d4e6a3"
+
 Después
 API_KEY_NUMVERIFY = "TU_CLAVE_AQUÍ"
+
 4. Guarda y cierra
 
     Ctrl + O → Enter → Ctrl + X
+   
 5.Comprueba:
 python3 osint_toolkit.py
 
