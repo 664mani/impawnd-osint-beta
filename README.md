@@ -72,6 +72,12 @@ Demo-key incluida → puede agotarse.
 
    python3 osint_toolkit.py
 
+---
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maxht_123)
+## 📲 Redes del autor
+- **Instagram**: [@maxht_123](https://instagram.com/maxht_123)  
+    Aqui me puedes cotactar
+
 > Numverify solo devuelve **país, operador y línea**; **NUNCA** la ubicación exacta del usuario.
 ## 📦 Instalación en Ubuntu (20.04 / 22.04 / 24.04)
 ```bash
