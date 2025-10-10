@@ -32,7 +32,20 @@ Geolocaliza IPs y teléfonos, reconstruye usuarios, lanza nmap, whois, tracerout
 Abre un issue con el **mensaje completo** de error y tu sistema operativo.
 
 ---
+---
 
+## 🔑 API Key – geolocalización de teléfonos
+El script utiliza **Numverify** (100 consultas/mes gratis).  
+Demo-key incluida → puede agotarse.
+
+| Paso | Acción |
+|---|---|
+| 1 | Regístrate gratis en [https://numverify.com](https://numverify.com) |
+| 2 | Copia tu **Access Key** del dashboard |
+| 3 | Abre `osint_toolkit.py` y cambia la línea:  
+  `API_KEY_NUMVERIFY = "tu_clave_aquí"` |
+
+> Numverify solo devuelve **país, operador y línea**; **NUNCA** la ubicación exacta del usuario.
 ## 📦 Instalación en Ubuntu (20.04 / 22.04 / 24.04)
 ```bash
 # 1. Actualiza e instala dependencias
