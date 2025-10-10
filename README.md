@@ -6,7 +6,7 @@ Geolocaliza IPs y teléfonos, reconstruye usuarios, lanza nmap, whois, tracerout
 
 ![Licencia](https://img.shields.io/badge/licencia-MIT-green.svg)
 ![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
-![Plataforma](https://img.shields.io/badge/plataforma-Ubuntu%20%7C%20Windows-lightgrey.svg)
+![Plataforma](https://img.shields.io/badge/plataforma-Ubuntu%20%7C%20-lightgrey.svg)
 
 ---
 
