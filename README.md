@@ -2,7 +2,7 @@
 Herramienta OSINT con interfaz gráfica (tkinter) para Ubuntu.  
 Geolocaliza IPs y teléfonos, reconstruye usuarios, lanza nmap, whois, traceroute, DNS-lookup… todo desde un clic.
 
-&gt; 🚧 Versión IOS y version de termux en desarrollo.
+&gt; 🚧 Versión IOS y version de termux en desarrollo. ESTA ES LA VERSIÓN BETA .
 
 ![Licencia](https://img.shields.io/badge/licencia-MIT-green.svg)
 ![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
