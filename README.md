@@ -74,6 +74,12 @@ sudo apt update && sudo apt install -y inetutils-ping whois nmap traceroute what
 
 ---
 
-## 🖼️ Capturas de Pantalla (Próximamente)
+## 🖼️ Evolución del Proyecto
 
-*(Se añadirán capturas de la nueva interfaz)*
+### Antes (v3.0)
+¡Un largo camino recorrido! Así es como se veía la aplicación antes del rediseño.
+
+![Versión Antigua](./assets/old_version.png)
+
+### Después (v5.0)
+*(Captura de la nueva interfaz próximamente)*
